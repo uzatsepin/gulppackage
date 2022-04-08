@@ -1,8 +1,8 @@
 # gulppackage
 
-  "dev": "gulp" – command npm run gulp</br>
+Command #npm #run #gulp – starting dev</br>
   "build": "gulp build --build", – command npm run build </br>
-  "zip": "gulp deployZIP --build", – command npm run zip
-  "deploy": "gulp deployFTP --build" – command npm run delpoy
+  "zip": "gulp deployZIP --build", – command npm run zip </br>
+  "deploy": "gulp deployFTP --build" – command npm run delpoy </br>
   
   
